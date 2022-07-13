@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div class="destination-layout" id="destination-page">
+        <!-- header -->
+        <div class="header-layout" id="destination-header">
+            {{include './components/header/header.art'}}
+        </div>
+
+        <!-- main -->
+        <div class="main-layout" id="destination-main">
+            {{include './components/main/main.art'}}
+        </div>
+
+        <!-- tabbar -->
+        <div class="tabbar-layout" id="destination-tabbar">
+            <% include ('../../components/tabbar/tabbar.art',{ active:'destination'}) %>
+        </div>
+
+        <!-- backtop -->
+        <div class="backtop-layout" id="destination-backtop">
+            {{include '../../components/backtop/backtop.art'}}
+        </div>
+    </div>
+</body>
+</html>

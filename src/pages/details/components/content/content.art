@@ -1,0 +1,55 @@
+<div class="content">
+    <img src="./product.png" alt="" class="content-img">
+    <div class="content-text">
+        <div class="content-header">
+            <h1>北京直飞福冈5天往返含税机票</h1>
+            <div class="header-short">
+                <span>赠送接机</span>
+                <span>赠当地旅游项目</span>
+            </div>
+            <div class="header-data">
+                <span>月售24004</span>
+                <span>已售338份</span>
+            </div>
+        </div>
+        <div class="content-introduction">
+            <h1>简介</h1>
+            <span>多地出发：简介简介简介简介简介简介简介简介简介<br>
+                多种体验：简介简介简介简介简介简介简介简介简介简介简介<br>
+                多种选择：简介简介简介简介简介简介简介简介简介<br>
+                超级赠送：简介简介简介简介简介简介简介简介简介<br>
+                包含餐食：简介简介简介简介简介简介简介简介简介<br>
+                多玩法可选：简介简介简介简介简介简介简介简介简介<br>
+            </span>
+        </div>
+        <div class="content-engage">
+            <h1>预定流程</h1>
+            <ul class="engage-list">
+                <li class="engage-li">
+                    <img src="./personal.png" alt="" class="engage-li-img">
+                    <span>提交订单</span>
+                </li>
+                <li class="engage-li">
+                    <img src="./personal.png" alt="" class="engage-li-img">
+                    <span>在线完成支付</span>
+                </li>
+                <li class="engage-li">
+                    <img src="./personal.png" alt="" class="engage-li-img">
+                    <span>联系商家确认</span>
+                </li>
+                <li class="engage-li">
+                    <img src="./personal.png" alt="" class="engage-li-img">
+                    <span>放心出发</span>
+                </li>
+                <li class="engage-li">
+                    <img src="./personal.png" alt="" class="engage-li-img">
+                    <span>收到确认单据</span>
+                </li>
+            </ul>
+        </div>
+        <div class="content-refund">
+            <h1>退款流程</h1>
+            <span>退款流程退款流程退款流程退款流程退款流程退款流程退款流程退款流程退款流程退款流程退款流程退款流程退款流程退款流程退款流程退款流程</span>
+        </div>
+    </div>
+</div>

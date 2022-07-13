@@ -1,0 +1,8 @@
+.main-layout .tab-layout {
+    width: 74px;
+    background-color: #fafafa;
+}
+.main-layout .content-layout {
+    flex: 1;
+    overflow-y: auto;
+}

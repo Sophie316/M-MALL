@@ -1,0 +1,113 @@
+.details-layout .content {
+    width: 100%;
+}
+.details-layout .content .content-img {
+    width: 100%;
+}
+.details-layout .content-text {
+    border: 3px solid gray;
+    border-bottom: none;
+    padding: 15px;
+}
+.content-header {
+    border-bottom: 1px solid gray;
+}
+.content-header h1{
+    font-weight: bold;
+    font-size: 15px;
+    margin-bottom: 10px;
+}
+.content-header .header-short {
+    font-size: 10px;
+    margin-bottom: 10px;
+}
+.content-header .header-short span {
+    border: 2px solid gray;
+    padding: 2px 5px;
+    border-radius: 5px;
+}
+.content-header .header-data {
+    color: gray;
+    font-size: 8px;
+    position: relative;
+    margin-bottom: 10px;
+}
+.content-header .header-data span:last-child {
+    position: absolute;
+    right: 0;
+}
+.content-introduction {
+    padding-top: 40px;
+    margin-bottom: 40px;
+}
+.content-introduction h1 {
+    font-size: 20px;
+    margin-bottom: 15px;
+    position: relative;
+}
+.content-introduction h1::before {
+    content: '';
+    width: 7px;
+    height: 28.8px;
+    background-color: red;
+    position: absolute;
+    left: -16px;
+}
+.content-introduction span {
+    font-size: 10px;
+}
+.content-engage {
+    margin-bottom: 40px;
+}
+.content-engage h1 {
+    font-size: 20px;
+    margin-bottom: 40px;
+    position: relative;
+}
+.content-engage h1::before {
+    content: '';
+    width: 7px;
+    height: 28.8px;
+    background-color: red;
+    position: absolute;
+    left: -16px;
+}
+.content-engage .engage-list {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    width: 100%;
+}
+.content-engage .engage-li {
+    width: 33.33333333%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
+.content-engage .engage-li img {
+    width: 100%;
+    margin-bottom: 10px;
+}
+.content-engage .engage-li span {
+    font-size: 10px;
+}
+.content-refund h1 {
+    font-size: 20px;
+    margin-bottom: 15px;
+    position: relative;
+}
+.content-refund h1::before {
+    content: '';
+    width: 7px;
+    height: 28.8px;
+    background-color: red;
+    position: absolute;
+    left: -16px;
+}
+.content-refund span {
+    font-size: 10px;
+}

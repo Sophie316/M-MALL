@@ -1,0 +1,44 @@
+.personal-header {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding-top: 20px;
+    position: relative;
+}
+.header-img {
+    width: 100%;
+    height: 40%;
+    background: url('./header.jpg') no-repeat;
+    background-size: cover;
+}
+.float-box {
+    position: absolute;
+    width: 100%;
+    top: 20%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.float-box img {
+    border-radius: 50%;
+    border: 3px solid white;
+    width: 100px;
+    height: 100px;
+    margin-bottom: 10px;
+}
+.float-box span {
+    width: 100%;
+    display: block;
+    margin-bottom: 5px;
+    color: black;
+}
+.header-name {
+    font-size: 20px;
+}
+.header-id {
+    font-size: 8px;
+}

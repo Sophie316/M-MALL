@@ -1,0 +1,25 @@
+.index-layout {
+    width: 100%;
+    height: 100%;
+    padding-bottom: 48px;
+    overflow-y: auto;
+}
+.index-layout .header-layout {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 54px;
+    z-index: 1000;
+}
+.index-layout .header-layout .searchbox {
+    width: 89.333333%;
+}
+.slider-layout,
+.nav-layout,
+.product-layout {
+    background-color: #fff;
+}
+.nav-layout {
+    margin-bottom: 10px;
+}

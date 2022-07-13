@@ -1,0 +1,13 @@
+<div class="consult">
+        <a href="javascript:;" class="consult-zixun">
+            <i class="iconfont icon-sousuo"></i>
+            <span class="zixun">咨询</span>
+        </a>
+        <a href="javascript:;" class="consult-shoucang">
+            <i class="iconfont icon-hear"></i>
+            <span class="shoucang">收藏</span>
+        </a>
+        <a href="javascript:;" class="consult-yuding">
+            <span class="yuding">立即预定</span>
+        </a>
+</div>

@@ -1,0 +1,26 @@
+.main-layout .content-layout .content {
+    padding: 20px 20px 0 0;
+    display: flex;
+    flex-wrap: wrap;
+}
+.content-item {
+    padding: 0 0 20px 20px;
+    width: 50%;
+    position: relative;
+}
+.content-img {
+    width: 100%;
+}
+.main-layout .content-layout .content-text {
+    position: absolute;
+    top: 0;
+    left: 20px;
+    right: 0;
+    bottom: 20px;
+    background-color: rgba(0, 0, 0, 0.5);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    font-size: 16px;
+}

@@ -1,0 +1,8 @@
+<div class="personal-header">
+    <div class="header-img"></div>
+    <div class="float-box">
+        <img src="./personal.png" alt="personal">
+        <span class="header-name">王逗逗</span>
+        <span class="header-id">1234578</span>
+    </div>
+</div>

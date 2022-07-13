@@ -1,0 +1,32 @@
+<ul class="main">
+    <li class="main-item">
+        <a href="javascript:;" class="main-link">
+            <div class="main-text">我的行程计划</div>
+            <i class="iconfont icon-xiangyoujiantou"></i>
+        </a>
+    </li>
+    <li class="main-item">
+        <a href="javascript:;" class="main-link">
+            <div class="main-text">我的收藏</div>
+            <i class="iconfont icon-xiangyoujiantou"></i>
+        </a>
+    </li>
+    <li class="main-item">
+        <a href="javascript:;" class="main-link">
+            <div class="main-text">客服</div>
+            <i class="iconfont icon-xiangyoujiantou"></i>
+        </a>
+    </li>
+    <li class="main-item">
+        <a href="javascript:;" class="main-link">
+            <div class="main-text">我的优惠券</div>
+            <i class="iconfont icon-xiangyoujiantou"></i>
+        </a>
+    </li>
+    <li class="main-item">
+        <a href="javascript:;" class="main-link">
+            <div class="main-text">常用旅客管理</div>
+            <i class="iconfont icon-xiangyoujiantou"></i>
+        </a>
+    </li>
+</ul>
